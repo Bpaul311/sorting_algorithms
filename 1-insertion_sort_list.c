@@ -3,8 +3,8 @@
  * insertion_sort_list - Sorts a doubly linked list in ascending order
  * @list: Address of the doubly linked list to be sorted
  *
- * Description: Implements the Insertion Sort algorithm on a doubly linked list.
- *              The list is sorted in ascending order, and the nodes are swapped
+ * Description: Implements the Insertion Sort algorithm on a doubly linked list
+ *              The list is sorted in ascending order,and the nodes are swapped
  *              instead of modifying the integer values.
  */
 void insertion_sort_list(listint_t **list)
